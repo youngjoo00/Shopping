@@ -17,6 +17,7 @@
 		8E3ECFDA2BED27D0005C4D7F /* ShoppingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3ECFD92BED27D0005C4D7F /* ShoppingViewModel.swift */; };
 		8E3ECFDD2BED27E4005C4D7F /* ViewModelType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3ECFDC2BED27E4005C4D7F /* ViewModelType.swift */; };
 		8E3ECFE12BED2D00005C4D7F /* RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3ECFE02BED2D00005C4D7F /* RowView.swift */; };
+		8E3ECFE32BEDAC6F005C4D7F /* PrivateKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3ECFE22BEDAC6F005C4D7F /* PrivateKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		8E3ECFD92BED27D0005C4D7F /* ShoppingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingViewModel.swift; sourceTree = "<group>"; };
 		8E3ECFDC2BED27E4005C4D7F /* ViewModelType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelType.swift; sourceTree = "<group>"; };
 		8E3ECFE02BED2D00005C4D7F /* RowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowView.swift; sourceTree = "<group>"; };
+		8E3ECFE22BEDAC6F005C4D7F /* PrivateKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivateKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				8E3ECFBC2BED21B6005C4D7F /* SwiftUI_ShoppingApp.swift */,
 				8E3ECFC02BED21B8005C4D7F /* Assets.xcassets */,
 				8E3ECFC22BED21B8005C4D7F /* Preview Content */,
+				8E3ECFE22BEDAC6F005C4D7F /* PrivateKey.swift */,
 			);
 			path = SwiftUI_Shopping;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				8E3ECFD72BED2602005C4D7F /* Search.swift in Sources */,
 				8E3ECFCC2BED2258005C4D7F /* NetworkManager.swift in Sources */,
 				8E3ECFDD2BED27E4005C4D7F /* ViewModelType.swift in Sources */,
+				8E3ECFE32BEDAC6F005C4D7F /* PrivateKey.swift in Sources */,
 				8E3ECFE12BED2D00005C4D7F /* RowView.swift in Sources */,
 				8E3ECFCE2BED2454005C4D7F /* APIError.swift in Sources */,
 				8E3ECFBD2BED21B6005C4D7F /* SwiftUI_ShoppingApp.swift in Sources */,
